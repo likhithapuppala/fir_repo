@@ -1,5 +1,6 @@
 print("Hello, World")
-print("bye")
-print("hello,hi")
-print("testing revert")
-print("Hi")
+print("A")
+print("b")
+print("c")
+print("bye!")
+
